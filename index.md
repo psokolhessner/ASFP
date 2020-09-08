@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Application Statement Feedback Program
+
+Welcome to a trial page for the Application Statement Feedback Program (ASFP) for psychology PhD applicants, from the Department of Psychology at the University of Denver.
 
 You can use the [editor on GitHub](https://github.com/psokolhessner/ASFP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
